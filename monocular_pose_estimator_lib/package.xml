@@ -1,6 +1,6 @@
 <package>
   <name>monocular_pose_estimator_lib</name>
-  <version>1.0.0</version>
+  <version>1.0.2</version>
   <description>
      monocular_pose_estimator_lib
   </description>
@@ -10,5 +10,6 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <build_depend>cmake_modules</build_depend>
+  <build_depend>roscpp</build_depend>
 
 </package>
